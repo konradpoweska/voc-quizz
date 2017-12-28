@@ -1,0 +1,6 @@
+Français|English
+3
+stylo|pen
+verre|glass
+bonjour|hello
+
